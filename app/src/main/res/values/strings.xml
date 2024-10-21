@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VehicleApp</string>
+    <string name="nome_do_ve_culo">Nome do Veículo</string>
+    <string name="vehicle_name">Vehicle Name</string>
+    <string name="this_is_the_vehicle_fragment">This is the Vehicle Fragment</string>
+    <string name="save">Save</string>
+    <string name="vehicle_year">Vehicle Year</string>
+    <string name="vehicle_model">Vehicle Model</string>
+</resources>
